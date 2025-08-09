@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - menu_ui
+name: 'Client Profile'
+type: client_profile
+description: 'Profile information for clients including business details and contact information'
+help: 'Create a comprehensive client profile with business information, contact details, and preferences.'
+new_revision: true
+preview_mode: 1
+display_submitted: false

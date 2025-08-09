@@ -1,0 +1,15 @@
+name: Takutora Business
+type: module
+description: 'Custom module for Takutora business workflow and content types'
+package: Takutora
+core_version_requirement: ^10
+dependencies:
+  - drupal:node
+  - drupal:field
+  - drupal:text
+  - drupal:datetime
+  - drupal:options
+  - drupal:number
+  - drupal:email
+  - drupal:file
+  - drupal:image

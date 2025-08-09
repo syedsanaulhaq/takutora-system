@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - menu_ui
+name: 'Business Plan'
+type: business_plan
+description: 'Different service plans available for clients with pricing and specifications'
+help: 'Create and manage business plans with detailed specifications, pricing, and features.'
+new_revision: true
+preview_mode: 1
+display_submitted: false

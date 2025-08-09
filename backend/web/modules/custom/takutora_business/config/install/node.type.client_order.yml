@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - menu_ui
+name: 'Client Order'
+type: client_order
+description: 'Orders placed by clients including specifications, status, and shipping information'
+help: 'Manage client orders from creation to delivery with complete tracking and status updates.'
+new_revision: true
+preview_mode: 1
+display_submitted: false

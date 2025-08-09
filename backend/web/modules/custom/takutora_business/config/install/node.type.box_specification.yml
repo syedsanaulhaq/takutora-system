@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - menu_ui
+name: 'Box Specification'
+type: box_specification
+description: 'Detailed specifications for boxes including size, type, and customization options'
+help: 'Define box specifications with dimensions, materials, and customization details.'
+new_revision: true
+preview_mode: 1
+display_submitted: false
